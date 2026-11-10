@@ -84,7 +84,7 @@ Read the chapters in order when learning FileZilla, or open the section that ans
 ## Main references
 
 - [FileZilla Project](https://filezilla-project.org/)
-- [FileZilla documentation](https://filezilla-project.org/documentation.php)
+- [FileZilla Client quick guide](https://wiki.filezilla-project.org/Using)
 - [FileZilla Project Wiki](https://wiki.filezilla-project.org/)
 - [FileZilla support forum](https://forum.filezilla-project.org/)
 
